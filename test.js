@@ -1,7 +1,7 @@
 /* eslint-disable flowtype/require-parameter-type, flowtype/require-return-type, no-magic-numbers, no-undefined */
 import {test} from "tap"
 
-import isIterable from "./source.js"
+import isArray from "./source"
 
 test(({notOk, end}) => {
   notOk(isIterable(null))
