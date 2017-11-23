@@ -1,6 +1,6 @@
 {
   "name": "@unction/isiterable",
-  "version": "2.13.0",
+  "version": "2.14.0",
   "description": "Takes a value and returns a boolean if value is iterable",
   "keywords": [
     "unction",
