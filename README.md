@@ -1,5 +1,7 @@
 # @unction/isIterable
 
+DEPRECATED: See https://github.com/unctionjs/isEnumerable
+
 
 ![Tests][BADGE_TRAVIS]
 ![Stability][BADGE_STABILITY]
